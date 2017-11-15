@@ -4,7 +4,7 @@
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
-
+.idea/KotlinJavaRuntime.xml
 # Kotlin lang - https://github.com/JetBrains/kotlin/blob/master/.gitignore
 .DS_Store
 .idea/shelf
